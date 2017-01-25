@@ -1,0 +1,24 @@
+/* CSS Class Overrides */
+.jumbotron {
+	margin-top: 40px;
+}
+
+.container {
+	width: 650px;
+}
+
+.hoverable:hover {
+	cursor: pointer;
+}
+
+.modal-dialog {
+	width: 300px;
+}
+
+.input-group {
+	width: 100%;
+}
+
+.modal-footer {
+	text-align: center;
+}
